@@ -1,3 +1,10 @@
+Research Updates:
+July 7th - working with code on Google colab, and comparing code results with results published in article for accuracy.
+  Challenge: Inconsistent data source. Gaps and errors in results and different actual code outcome than expected outcome. 
+  Proposed solution: Contact the author to request for missing code and missing data source.
+
+
+
 # Machine-Learning-Cryptanalysis-of-a-Quantum-Random-Number-Generator
 
 The paper is published on IEEE Transactions on Information Forensics and Security https://ieeexplore.ieee.org/document/8396276
